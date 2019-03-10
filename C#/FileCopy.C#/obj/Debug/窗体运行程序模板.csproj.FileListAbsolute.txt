@@ -1,0 +1,9 @@
+E:\Workplace\测试项目\窗体运行程序模板\窗体运行程序模板\bin\Debug\窗体运行程序模板.exe.config
+E:\Workplace\测试项目\窗体运行程序模板\窗体运行程序模板\bin\Debug\窗体运行程序模板.exe
+E:\Workplace\测试项目\窗体运行程序模板\窗体运行程序模板\bin\Debug\窗体运行程序模板.pdb
+E:\Workplace\测试项目\窗体运行程序模板\窗体运行程序模板\obj\Debug\窗体运行程序模板.csprojResolveAssemblyReference.cache
+E:\Workplace\测试项目\窗体运行程序模板\窗体运行程序模板\obj\Debug\窗体运行程序模板.Form1.resources
+E:\Workplace\测试项目\窗体运行程序模板\窗体运行程序模板\obj\Debug\窗体运行程序模板.Properties.Resources.resources
+E:\Workplace\测试项目\窗体运行程序模板\窗体运行程序模板\obj\Debug\窗体运行程序模板.csproj.GenerateResource.Cache
+E:\Workplace\测试项目\窗体运行程序模板\窗体运行程序模板\obj\Debug\窗体运行程序模板.exe
+E:\Workplace\测试项目\窗体运行程序模板\窗体运行程序模板\obj\Debug\窗体运行程序模板.pdb

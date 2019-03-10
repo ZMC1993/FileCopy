@@ -1,0 +1,10 @@
+G:\ZMC\代码库\窗体运行程序模板\WinForm.Demo\bin\Debug\WinfromDemo.exe.config
+G:\ZMC\代码库\窗体运行程序模板\WinForm.Demo\bin\Debug\WinfromDemo.exe
+G:\ZMC\代码库\窗体运行程序模板\WinForm.Demo\bin\Debug\WinfromDemo.pdb
+G:\ZMC\代码库\窗体运行程序模板\WinForm.Demo\obj\Debug\Winform.Demo.csprojResolveAssemblyReference.cache
+G:\ZMC\代码库\窗体运行程序模板\WinForm.Demo\obj\Debug\WinformDemo.Form1.resources
+G:\ZMC\代码库\窗体运行程序模板\WinForm.Demo\obj\Debug\WinfromDemo.Properties.Resources.resources
+G:\ZMC\代码库\窗体运行程序模板\WinForm.Demo\obj\Debug\Winform.Demo.csproj.GenerateResource.cache
+G:\ZMC\代码库\窗体运行程序模板\WinForm.Demo\obj\Debug\Winform.Demo.csproj.CoreCompileInputs.cache
+G:\ZMC\代码库\窗体运行程序模板\WinForm.Demo\obj\Debug\WinfromDemo.exe
+G:\ZMC\代码库\窗体运行程序模板\WinForm.Demo\obj\Debug\WinfromDemo.pdb

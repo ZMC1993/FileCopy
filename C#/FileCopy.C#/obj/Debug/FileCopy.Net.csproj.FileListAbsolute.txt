@@ -1,0 +1,10 @@
+E:\ZMC\测试代码库\FileCopy.C#\FileCopy.C#\bin\Debug\FileCopyNet.exe.config
+E:\ZMC\测试代码库\FileCopy.C#\FileCopy.C#\bin\Debug\FileCopyNet.exe
+E:\ZMC\测试代码库\FileCopy.C#\FileCopy.C#\bin\Debug\FileCopyNet.pdb
+E:\ZMC\测试代码库\FileCopy.C#\FileCopy.C#\obj\Debug\WinformDemo.Form1.resources
+E:\ZMC\测试代码库\FileCopy.C#\FileCopy.C#\obj\Debug\FileCopyNet.Properties.Resources.resources
+E:\ZMC\测试代码库\FileCopy.C#\FileCopy.C#\obj\Debug\FileCopy.Net.csproj.GenerateResource.cache
+E:\ZMC\测试代码库\FileCopy.C#\FileCopy.C#\obj\Debug\FileCopy.Net.csproj.CoreCompileInputs.cache
+E:\ZMC\测试代码库\FileCopy.C#\FileCopy.C#\obj\Debug\FileCopyNet.exe
+E:\ZMC\测试代码库\FileCopy.C#\FileCopy.C#\obj\Debug\FileCopyNet.pdb
+E:\ZMC\测试代码库\FileCopy.C#\FileCopy.C#\obj\Debug\FileCopy.Net.csprojAssemblyReference.cache
